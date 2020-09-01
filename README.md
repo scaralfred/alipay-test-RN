@@ -5,7 +5,7 @@ Test app for testing Alipay payment through "tipsi-stripe"
 
 2) react-native run-android
 
-2) replace "**************" with a real pubishableKey
+2) replace "**************" with a real pubishableKey (App.js file)
 
 stripe.setOptions({
   publishableKey: "*************************",
