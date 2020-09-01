@@ -7,11 +7,11 @@ Test app for testing Alipay payment through "tipsi-stripe"
 
 3) replace "**************" with a real pubishableKey (App.js file)
 
-4) build an apk
-
-5) install the apk and run a real transaction with a real Alipay account
-
 stripe.setOptions({
   publishableKey: "*************************",
   androidPayMode: "production"
 })
+
+4) build an apk
+
+5) install the apk and run a real transaction with a real Alipay account
