@@ -14,4 +14,4 @@ stripe.setOptions({
 
 4) build an apk
 
-5) install the apk and run a real transaction with a real Alipay account
+5) install the apk and run a real transaction with a real Alipay account (preferably from a Chinese location)
